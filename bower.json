@@ -9,6 +9,9 @@
   "license": "MIT",
   "ignore": [
     "**/.*",
+    "content",
+    "devbridge-autocomplete.jquery.json",
+    "index.htm",
     "scripts",
     "spec",
     "src"
